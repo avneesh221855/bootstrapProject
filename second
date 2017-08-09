@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+	<title>News</title>
+	<meta name="description" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+	<link href="includes/css/styles.css" rel="stylesheet">
+	<script src="http://code.jquery.com/jquery.js"></script>
+
+<!-- If no online access, fallback to our hardcoded version of jQuery -->
+<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+
+<!-- Bootstrap JS -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Custom JS -->
+<script src="includes/js/script.js"></script>
+
+	<script src="http://code.jquery.com/jquery.js"></script>
+
+
+<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script src="includes/js/script.js"></script>
+
+	<script src="includes/js/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+	<div class="navbar navbar-fixed-top" >
+			<div class="container">
+				<button class="navbar-toggle" data-target=".navbar-responsive-collapse" data-toggle="collapse" type="button">
+
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/"><img src="https://lonews.ro/templates/lonews/images/logo.png" alt="mylogo" width="108px" height="22px"> </a>
+				<div class="nav-collapse collapse navbar-responsive-collapse">
+					<ul class="nav navbar-nav">
+						<li class="active">
+							<a href="file:///C:/Users/Training/Desktop/new%20project/02%20-%20Starter%20Assets/newindex.html">Home</a></li>
+							<li> <a href="#" class="dropdown-toggle" data-toggle="dropdown">News<strong class="caret"></strong></a>
+
+								<ul class="dropdown-menu">
+									<li>
+										<a href="#">Sports</a></li>
+										<li>
+											<a href="#">Politics</a></li>
+											<li>
+												<a href="#">Entertainment</a></li>
+
+												<li class="divider"></li>
+												<li class="dropdown-header">More options </li>
+												<li>
+													<a href="#">Wheather</a></li>
+													<li>
+														<a href="#">Astrology</a></li>
+														<li>
+															<a href="#">Health</a></li>
+														</ul>
+													</li>
+
+
+
+
+
+													<li> <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<strong class="caret"></strong></a>
+
+														<ul class="dropdown-menu">
+															<li>
+																<a href="#">Special Reports</a></li>
+																<li>
+																	<a href="#">Explainers</a></li>
+																	<li>
+																		<a href="#">The Reporters</a></li>
+
+																	</ul></li>
+
+
+																</ul>
+																<div class="col-lg-7">
+
+																	<form class="navbar-form col-lg-7">
+																		<input type="text" class="form-control" placeholder="Search" id="searchInput">
+																		<button type="submit" class="btn btn-success">
+																			<span class="glyphicon glyphicon-search"></span>
+																		</button>
+																	</form>
+																	<ul  class="nav navbar-nav pull-right col-lg-2">
+																		<li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user" id="myaccount"></span>My Account<strong class="caret"></strong> </a>
+
+
+																			<ul class="dropdown-menu">
+																				<li>
+																					<a href="#">My Profile</a></li>
+																					<li>
+																						<a href="#">Settings</a></li>
+																						<li>
+																							<a href="#">Logout</a></li>
+
+
+																						</ul>
+																					</li>
+																				</ul>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+
+
+
+<hr><hr>
+
+
+
+
+
+ <div class="hero1">
+
+
+ <div class="innerhero">
+ 	<h3>dfesfesfsfes</h3>
+ </div>
+
+
+</div>
+
+<hr>
+
+<div class="row" id="FeatureHeading">
+
+
+	<div class="col-12">
+
+
+
+
+		<h2> Salesforce AI helps brands track images on social media</h2>
+		<p class="lead">Brands have long been able to search for company mentions on social media, but they’ve lacked the ability to search for pictures of their logos or products in an easy way. That’s where Salesforce’s latest Einstein artificial intelligence feature comes into play.</p>
+		<p  class="lead">
+
+Today the company introduced Einstein Vision for Social Studio, which provides a way for marketers to search for pictures related to their brands on social media in the same way they search for other mentions. The product takes advantage of a couple of Einstein artificial intelligence algorithms including Einstein Image Classification for image recognition. It uses visual search, brand detection and product identification. It also makes use of Einstein Object Detection to recognize objects within images including the type and quantity of object.</p>
+	</div>
+
+</div>
+<hr>
+
+<div class="col-12">
+<section>
+		<div class="col-4">
+			<img src="images/banner1.jpg" width="400px" height="400px">
+		</div>
+
+		<div class="col-8"><article>
+		
+<h6>
+<p>
+In spite of being adjudged Man of the Match for his fine show in the second Test against Sri Lanka in Colombo, Jadeja ended the Test on a bad note as he was handed a one-match ban by the International Cricket Council (ICC) after accumulating six demerit points in a 24-month period.
+</p>
+</h6>
+</article>
+		</div>
+		</section>
+	</div>
+	<br>
+
+	
+
+<div class="row" id="moreInfo">
+</div>
+
+</div>
+
+<hr>
+<footer id="foot">
+             <h3>Contact Us</h3>
+				<a href=https://facebook.com><img src="images/facebook.png"  width="40px" :"20px" height="40px"><br><a/>
+					<a href="https://twiter.com">
+						<img src="images/TWITER.png" width="40px" height="40px"></a>
+						<br>
+						© 2017 News, LLC
+						<br>
+
+					</footer>
+
+</body>
+</html>
+
